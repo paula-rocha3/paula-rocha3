@@ -4,9 +4,9 @@
 ___________________________________________________________________________________________________________________________________________________________________________________
 👩🏽‍💻 Sr. Software Engineer | QA Specialist 🐞 <br>
 📚 Higher Education Teacher <br>
-🧠 Researcher in AI applied to Neurosciences<br>
-🌱 Nature and Sustainability <br>
+🧠 Researcher AI applied to Neurosciences<br>
+🌱 Nature & Sustainability <br>
 ___________________________________________________________________________________________________________________________________________________________________________________
-💻 Tech Stack: <br>
+💻 Tech Stacks: <br>
 
 
