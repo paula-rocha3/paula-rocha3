@@ -1,12 +1,12 @@
 ## Hello❣️ I'm Paula Rocha
 
-🦋 About Me:
+#🦋 About Me:
 ___________________________________________________________________________________________________________________________________________________________________________________
-👩🏽‍💻 Sr. Software Engineer | QA Specialist 🐞
-📚 Higher Education Teacher 
-🧠 Researcher in AI applied to Neurosciences
-🌱 Nature and Sustainability 
+#👩🏽‍💻 Sr. Software Engineer | QA Specialist 🐞
+#📚 Higher Education Teacher 
+#🧠 Researcher in AI applied to Neurosciences
+#🌱 Nature and Sustainability 
 ___________________________________________________________________________________________________________________________________________________________________________________
-💻 Tech Stack:
+#💻 Tech Stack:
 
 
